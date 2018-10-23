@@ -1,0 +1,92 @@
+h1 {
+    color:#e876da;
+    text-size:70px;
+    text-align:center;
+}
+
+body {
+   background-image: url('funny.jpg');
+   
+}
+button {
+      background-color: #f2b0e4;
+   position: absolute;
+    left:10px;
+    top:8px;
+    font-size: 17px;
+    margin: 5px;
+   width:100px;
+   border-style: solid;
+   border-color: white;
+   padding: 4px;
+   color: solid black;
+}
+
+.one {
+      color:black;
+  border: 2px solid white;
+  border-radius: 12px;
+  border-color:white;
+  background-color:white;
+   text-align: center; 
+    position: absolute;
+    right:10px;
+    top:8px;
+    font-size: 17px;
+    margin: 5px;
+   width:200px;
+   
+}
+h2 {
+   color:#db39b8;
+     border: 2px solid white;
+  border-radius: 12px;
+  border-color:white;
+  background-color:white;
+  width:75px;
+  margin-left:25%;
+  margin-top:5%;
+   
+}
+.three {
+    margin-left:25%;
+    position:absolute;
+    top:175px;
+    color:#db39b8;
+    border-style:solid;
+    border-color:white;
+    background-color:white;
+}
+
+ul {
+    margin-left:27%;
+    margin-top:50px;
+     border: 2px solid white;
+     border-radius: 12px;
+  border-color:white;
+  background-color:white;
+  width:70px;
+  color:#db39b8;
+}
+
+h3 {
+    margin-left:45%;
+    color:#db39b8;
+      border: 2px solid white;
+     border-radius: 12px;
+  border-color:white;
+  background-color:white;
+  width:70px;
+    
+}
+ 
+
+.four {
+   border-style:solid;
+    border-color:white;
+    background-color:white;
+    width:300px;
+    margin:5%;
+    margin-left:40%;
+}
+

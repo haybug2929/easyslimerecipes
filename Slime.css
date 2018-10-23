@@ -1,0 +1,96 @@
+h1 {
+    font-size: 70px; 
+    color:#553072;
+    text-align:center;
+}
+h2 {
+    color:#553072;
+      position :absolute;
+    width: 401px;
+    text-align: right;
+    right: 10px;
+    top: 23px;
+    text-align: center;
+    margin: 10px;
+   
+}
+body {
+    background-image: url('tiedye.jpg');
+}
+
+
+.one {
+  
+     color:black;
+     position: absolute;
+     width: 300px;
+      border: 2px solid white;
+     border-radius: 12px;
+  border-color:white;
+  background-color:white;
+     
+    
+    text-align: left; 
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+    margin: 30px;
+  
+} 
+
+Button {
+    background-color: #553072;
+    border: none;
+    color: white;
+    top: 8px;
+    margin: 105px;
+   border-style: solid;
+   border-width: medium;
+   border-color:white;
+   font-size:29px;
+text-align:center;
+}
+
+.two {
+    position :absolute;
+    width: 401px;
+    text-align: right;
+    right: 10px;
+    top: 50px;
+    text-align: center;
+     border: 2px solid white;
+     border-radius: 12px;
+  border-color:white;
+  background-color:white;
+    margin: 10px;
+    
+}
+
+.three {
+   
+     border: 2px solid white;
+     border-radius: 12px;
+  border-color:white;
+  background-color:white;
+  bottom:20px;
+  position:absolute;
+  width:210px;
+  text-align:center;
+  margin-left:40%;
+}
+ 
+
+
+
+
+   
+   
+
+
+
+    
+    
+
+
+
